@@ -13,8 +13,8 @@
 
 - 🔍 Actively looking for an apprenticeship as a full stack developer in Toulouse area
 - 👨‍💻 Currently studying full stack web development as a specialisation @<a href="https://www.holbertonschool.fr/campus/toulouse">Holberton School Toulouse</a>
-- 🦆 I’m in the process of completing <a href="https://cs50.harvard.edu/x/2024/">CS50 Harvard's course</a>
-- 🤝 I’m looking to collaborate on <a href="https://itch.io/jams">Game jams</a> or other projects
+- 🦆 In the process of completing <a href="https://cs50.harvard.edu/x/2024/">CS50 Harvard's course</a>
+- 🤝 Looking to collaborate on <a href="https://itch.io/jams">Game jams</a> or other projects
 - 🎓 Graduated in fundamentals of web development @<a href="https://www.holbertonschool.fr/campus/toulouse">Holberton School Toulouse</a>
 - 👩‍💼 Former College Study Abroad Program Coordinator @<a href="https://www.ciee.org/go-abroad/college-study-abroad/locations/france/toulouse">CIEE Toulouse</a>
 - ❤️ Hobbies: 🥾 Hiking 🎵 Playing cello and singing 🚅 Traveling 🍰 Baking & cooking 🎲 Board games, role playing games, escape games 🎮 Video games
