@@ -8,7 +8,7 @@
 </div>
 
 
-## 😸About me
+## 😸 About me
 
 
 - 🔍 Actively looking for an apprenticeship as a full stack developer in Toulouse area
