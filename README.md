@@ -68,7 +68,7 @@
 <div align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julieed-971&size_weight=0.5&count_weight=0.5&layout=pie&hide=ShaderLab,HLSL&langs_count=8&theme=github_dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julieed-971&size_weight=0.5&count_weight=0.5&layout=pie&hide=ShaderLab,HLSL&langs_count=8&theme=github_dark)
 
 
 [![Julieed-971's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julieed-971&show_icons=true&theme=github_dark)]
