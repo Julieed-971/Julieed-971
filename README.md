@@ -11,8 +11,8 @@
 ## 😸 About me
 
 
-- 🔍 Actively looking for an apprenticeship as a full stack developer in Toulouse area
-- 👨‍💻 Currently studying full stack web development as a specialisation @<a href="https://www.holbertonschool.fr/campus/toulouse">Holberton School Toulouse</a>
+- 💼 Started an internship/apprenticeship @ <a href="https://agence-cerberus.fr/">Agence Cerberus</a> 
+- 👨‍💻 Currently studying full stack web development as a specialization @<a href="https://www.holbertonschool.fr/campus/toulouse">Holberton School Toulouse</a>
 - 🦆 In the process of completing <a href="https://cs50.harvard.edu/x/2024/">CS50 Harvard's course</a>
 - 🤝 Looking to collaborate on <a href="https://itch.io/jams">Game jams</a> or other projects
 - 🎓 Graduated in fundamentals of web development @<a href="https://www.holbertonschool.fr/campus/toulouse">Holberton School Toulouse</a>
