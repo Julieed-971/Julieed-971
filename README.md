@@ -11,7 +11,7 @@
 ## 😸 About me
 
 
-- 💼 Started an internship/apprenticeship @ <a href="https://agence-cerberus.fr/">Agence Cerberus</a> 
+- 💼 Started an apprenticeship @ <a href="https://agence-cerberus.fr/">Agence Cerberus</a> 
 - 👨‍💻 Currently studying full stack web development as a specialization @<a href="https://www.holbertonschool.fr/campus/toulouse">Holberton School Toulouse</a>
 - 🦆 In the process of completing <a href="https://cs50.harvard.edu/x/2024/">CS50 Harvard's course</a>
 - 🤝 Looking to collaborate on <a href="https://itch.io/jams">Game jams</a> or other projects
@@ -30,6 +30,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julieed-971&repo=holbertonschool-simple_shell&show_owner=true&description_lines_count=2&theme=github_dark)](https://github.com/Julieed-971/holbertonschool-simple_shell)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julieed-971&repo=holbertonschool-AirBnB_clone_v4&show_owner=true&description_lines_count=2&theme=github_dark)](https://github.com/Julieed-971/holbertonschool-AirBnB_clone_v4)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julieed-971&repo=holbertonschool-web-development&show_owner=true&description_lines_count=2&theme=github_dark)](https://github.com/Julieed-971/holbertonschool-web-development)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julieed-971&repo=holbertonschool-web_front_end&show_owner=true&description_lines_count=2&theme=github_dark)](https://github.com/Julieed-971/holbertonschool-web_front_end)
 
 
 </div>
@@ -40,11 +41,11 @@
 
 #### Frameworks, Platforms, Libraries
 
-[![React][React.js]][React-url] [![FastAPI][FastAPI]][FastAPI-url] [![JWT][JWT]][JWT-url] [![Bulma][Bulma]][Bulma-url] ![Express.js] ![Flask] ![Jinja] ![JQuery] ![NodeJS] ![SASS]
+[![Symfony][Symfony]][Symfony-url][![React][React.js]][React-url] [![FastAPI][FastAPI]][FastAPI-url] [![JWT][JWT]][JWT-url] [![Bulma][Bulma]][Bulma-url] ![Express.js] ![Flask] ![Jinja] ![JQuery] ![NodeJS] ![SASS]
 
 #### Languages
 
-[![Python][Python]][Python-url] [![Javascript][Javascript]][Javascript-url]
+[![PHP][PHP]][PHP][![Python][Python]][Python-url] [![Javascript][Javascript]][Javascript-url]
 ![ShellScript] ![C] ![CSS3] ![HTML5]
 
 #### Database
@@ -87,6 +88,10 @@
 [JWT-url]: https://jwt.io/
 [VSCode]: https://img.shields.io/badge/Visual%20Studio%20Code-20232A.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [VSCode-url]: https://code.visualstudio.com/
+[PHP]: https://img.shields.io/badge/php-20232A.svg?style=for-the-badge&logo=php&logoColor=white
+[PHP-url]: https://www.php.net/
+[Symfony]: https://img.shields.io/badge/symfony-20232A.svg?style=for-the-badge&logo=symfony&logoColor=white
+[Symfony-url]: https://symfony.com/
 [Python]: https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
 [JavaScript]: https://img.shields.io/badge/javascript-20232A.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
