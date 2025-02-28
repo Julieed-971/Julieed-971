@@ -11,7 +11,7 @@
 ## 😸 About me
 
 
-- 💼 Started an apprenticeship @ <a href="https://agence-cerberus.fr/">Agence Cerberus</a> 
+- 💼 Apprenticeship @<a href="https://agence-cerberus.fr/">Agence Cerberus</a> 
 - 👨‍💻 Currently studying full stack web development as a specialization @<a href="https://www.holbertonschool.fr/campus/toulouse">Holberton School Toulouse</a>
 - 🦆 In the process of completing <a href="https://cs50.harvard.edu/x/2024/">CS50 Harvard's course</a>
 - 🤝 Looking to collaborate on <a href="https://itch.io/jams">Game jams</a> or other projects
@@ -40,11 +40,11 @@
 
 #### Frameworks, Platforms, Libraries
 
-[![Symfony][Symfony]][Symfony-url][![React][React.js]][React-url] [![FastAPI][FastAPI]][FastAPI-url] [![JWT][JWT]][JWT-url] [![Bulma][Bulma]][Bulma-url] ![Express.js] ![Flask] ![Jinja] ![JQuery] ![NodeJS] ![SASS]
+[![Symfony][Symfony]][Symfony-url] [![React][React.js]][React-url] [![FastAPI][FastAPI]][FastAPI-url] [![JWT][JWT]][JWT-url] [![Bulma][Bulma]][Bulma-url] ![Express.js] ![Flask] ![Jinja] ![JQuery] ![NodeJS] ![SASS]
 
 #### Languages
 
-[![PHP][PHP]][PHP][![Python][Python]][Python-url] [![Javascript][Javascript]][Javascript-url]
+[![PHP][PHP]][PHP] [![Python][Python]][Python-url] [![Javascript][Javascript]][Javascript-url]
 ![ShellScript] ![C] ![CSS3] ![HTML5]
 
 #### Database
@@ -57,7 +57,7 @@
 
 #### Version Control
 
-[![Git][Git]][Git-url]
+[![Git][Git]][Git-url] [![GitLab][GitLab]][GitLab-url]
 
 #### Design
 
@@ -81,6 +81,8 @@
 [React-url]: https://reactjs.org/
 [FastAPI]: https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=61DAFB
 [FastAPI-url]: https://fastapi.tiangolo.com/
+[GitLab]: https://img.shields.io/badge/gitlab-20232A.svg?style=for-the-badge&logo=gitlab&logoColor=white
+[GitLab-url]: https://about.gitlab.com/
 [MariaDB]: https://img.shields.io/badge/MariaDB-20232A?style=for-the-badge&logo=mariadb&logoColor=61DAFB
 [MariaDB-url]: https://mariadb.com/
 [JWT]: https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=JSON%20web%20tokens
