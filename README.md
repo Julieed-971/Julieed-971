@@ -11,7 +11,7 @@
 ## 😸 About me
 
 
-- 💼 Apprenticeship @<a href="https://agence-cerberus.fr/">Agence Cerberus</a> 
+- 💼 Apprenticeship @<a href="https://monsieurbiz.com/fr/">Monsieur Biz</a> 
 - 👨‍💻 Currently studying full stack web development as a specialization @<a href="https://www.holbertonschool.fr/campus/toulouse">Holberton School Toulouse</a>
 - 🦆 In the process of completing <a href="https://cs50.harvard.edu/x/2024/">CS50 Harvard's course</a>
 - 🤝 Looking to collaborate on <a href="https://itch.io/jams">Game jams</a> or other projects
